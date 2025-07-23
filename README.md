@@ -22,7 +22,7 @@ This repository serves as a practical resource for students enrolled in the DSAL
 
 ## Technologies & Languages
 
-- Programming Language: [e.g., C++, Java, Python, etc.]
+- Programming Language: [e.g., C++.]
 - Development Environment: [e.g., CodeBlocks, Visual Studio, etc.]
 
 ---
